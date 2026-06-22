@@ -68,7 +68,7 @@ Based in Kathmandu, Nepal
 |---------|-------------|
 | [**uctp-metaheuristic-framework**](https://github.com/krishna-ji/uctp-metaheuristic-framework) | Hybrid metaheuristic–RL framework for multi-objective university course timetabling. NSGA-II + PPO/DQN + Multi-Armed Bandit operator selection + CP-SAT decomposition repair  |
 | [**nepse-rl-agent-rbs-experiment**](https://github.com/krishna-ji/nepse-rl-agent-rbs-experiment) | Quantitative trading research platform for NEPSE — 7 rule-based strategies, LightGBM signal filtering, PPO RL agents, 15k+ LOC, 99 tests |
-| [**vrp-solver**](https://github.com/krishna-ji/vrp-solver) | Multi-objective VRP solver using NSGA-II — 4-objective optimization with Kathmandu traffic modeling, demand forecasting, and FastAPI REST API |
+| [**vrp-solver**](https://github.com/krishna-ji/vrp-solver) | Multi-objective VRP solver using NSGA-II — 4-objective optimization (distance, lateness, idle time, fairness) with Kathmandu traffic modeling and demand forecasting |
 | [**automatic-rf-identification-...-cnn-lstm**](https://github.com/krishna-ji/automatic-rf-identification-for-intelligent-communication-using-cnn-lstm) | CNN-LSTM hybrid for over-the-air Automatic Modulation Classification using SDR. Published in JIEE 2025. 93.48% accuracy across 10 modulation schemes |
 
 ---
