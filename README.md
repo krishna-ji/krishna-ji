@@ -1,6 +1,6 @@
 # Hi, I'm Krishna Acharya 👋
 
-**Software Engineer · Optimization Researcher · Electronics Engineer**
+**Optimization · Reinforcement Learning · Communication Systems · Embedded**
 
 BE in Electronics, Communication & Information Engineering — Thapathali Campus, IOE TU (2022–2026)  
 Based in Kathmandu, Nepal
@@ -11,9 +11,10 @@ Based in Kathmandu, Nepal
 
 - 🔬 Published researcher — 3 papers (CNN-LSTM, 6G Cognitive Radio, Assistive Tech)
 - 🧬 Building multi-objective optimization engines (NSGA-II, MOEA/D, RL hybrids)
-- 🌐 Full-stack developer — Django + React/Next.js + TypeScript
+- 📡 6G Cognitive Radio, Dynamic Spectrum Access, SDR signal processing
+- 🤖 Reinforcement Learning — DQN, PPO for scheduling, trading, and spectrum allocation
+- 📈 Quantitative finance — RL trading agents, time series analysis, 15+ NEPSE repos
 - ⚡ Embedded systems — STM32, ESP32, custom PCB design
-- 📊 Quantitative finance enthusiast — 15+ repos for NEPSE analysis & trading
 
 ---
 
@@ -28,22 +29,15 @@ Based in Kathmandu, Nepal
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-**Backend & Databases**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**ML & Optimization**  
+**ML, RL & Optimization**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Signal Processing & Comms**  
+![GNURadio](https://img.shields.io/badge/GNURadio-2C3E50?style=flat&logo=gnuradio&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
 
 **Embedded & Hardware**  
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
